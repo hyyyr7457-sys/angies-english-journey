@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+h1 {
+  color: #0077cc;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+audio {
+  margin-top: 1rem;
+}
+
+img {
+  border-radius: 12px;
+  max-width: 100%;
+  height: auto;
+}
